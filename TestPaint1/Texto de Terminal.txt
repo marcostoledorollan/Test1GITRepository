@@ -1,5 +1,5 @@
 Last login: Thu Feb 15 20:45:34 on ttys000
-MarcosPCs-MacBook-Pro:~ marcospc$ cd Proyectos
+MarcosPCs-MacBook-Pro:~ marcospc$ cd Proyectos  
 MarcosPCs-MacBook-Pro:Proyectos marcospc$ git status
 fatal: Not a git repository (or any of the parent directories): .git
 MarcosPCs-MacBook-Pro:Proyectos marcospc$ git 
