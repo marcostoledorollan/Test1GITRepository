@@ -1,4 +1,4 @@
-﻿div.toolsBars {
+div.toolsBars {
     width: 280px;
     float: left
 }
@@ -21,7 +21,7 @@ input[type=button] {
 
     input[type=button].active {
         border: solid 1px black
-    }
+    } 
 
 div.canvas {
     margin-left: 320px
