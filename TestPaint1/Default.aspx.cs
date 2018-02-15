@@ -10,7 +10,7 @@ namespace TestPaint1
         public void button1Clicked(object sender, EventArgs args)
         {
             button1.Text = "You clicked me";
-            button1.Visible = true;
+            //button1.Visible = true;
         }
     }
 }
